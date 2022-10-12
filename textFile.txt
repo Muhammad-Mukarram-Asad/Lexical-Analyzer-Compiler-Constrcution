@@ -1,0 +1,9 @@
+int a = 10;
+float b = 5.6;
+c = a + b;
+d = a.b;
+e = a++
+f = // My name is Mukarram Asad;
+g = /* I am doing (bachelors)
+from University of Karachi */
+
